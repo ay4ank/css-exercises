@@ -1,0 +1,19 @@
+.paragraph {
+   font-family:  "Verdana","DejaVu Sans", sans-serif;
+   color: black;
+   background-color: rgb(255, 129, 129); 
+}
+.paragraph.third {
+   font-size: 24px;
+}
+
+#second {
+   color:rgb(3, 3, 255);
+   font-size: 32px;
+}
+
+#fourth{
+   font-size: 24px;
+   font-weight: bold;
+   background-color:rgb(145, 240, 145)
+}
